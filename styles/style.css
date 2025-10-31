@@ -103,7 +103,7 @@
   position: relative;
   z-index: 1;
   display: flex;
-  justify-content: end;
+  justify-content: space-between;
   align-items: center;
   gap: 78px;
   padding: 136px 0 0;
@@ -111,6 +111,7 @@
 
 .cover__description-text {
   font-size: 22px;
+  line-height: 28px;
   text-transform: uppercase;
   color: white;
   word-spacing: 18px;
@@ -136,6 +137,7 @@
   font-size: 40px;
   font-weight: bold;
   line-height: 1;
+  margin-top: 135px;
   padding: 0 0 30px 40px;
   text-transform: uppercase;
 }
