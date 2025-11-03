@@ -115,9 +115,7 @@
   text-transform: uppercase;
   color: white;
   word-spacing: 18px;
-  list-style: 1.27;
 }
-
 
 .bet-button { 
   border: 1px solid white;
@@ -139,7 +137,7 @@
   font-weight: bold;
   line-height: 1;
   padding-left: 40px;
-  padding-top: 32px;;
+  padding-top: 32px;
   text-transform: uppercase;
 }
 
